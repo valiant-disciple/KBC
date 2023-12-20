@@ -1,0 +1,39 @@
+Question,Option 1,Option 2,Option 3,Option 4
+What is the capital of India?,New Delhi,Mumbai,Chennai,Kolkata
+What is the national language of India?,Hindi,English,Punjabi,Tamil
+What is the national currency of India?,Rupee,Dollar,Euro,Pound
+What is the national bird of India?,Peacock,Parrot,Pigeon,Eagle
+What is the national flower of India?,Lotus,Rose,Jasmine,Marigold
+What is the largest state in India by area?,Rajasthan,Madhya Pradesh,Uttar Pradesh,Maharashtra
+What is the smallest state in India by area?,Goa,Mizoram,Sikkim,Manipur
+What is the highest mountain peak in India?,Mount Everest,K2,Kangchenjunga,Nanga Parbat
+What is the longest river in India?,Ganges,Indus,Brahmaputra,Narmada
+What is the largest desert in India?,Thar Desert,Great Indian Desert,Cholistan Desert,Rann of Kutch
+When did India gain independence?,15 August 1947,26 January 1950,15 August 1956,26 January 1957
+Who was the first prime minister of India?,Jawaharlal Nehru,Sardar Vallabhbhai Patel,Indira Gandhi,Rajiv Gandhi
+Who was the first president of India?,Rajendra Prasad,Sarvepalli Radhakrishnan,Zakir Hussain,V. V. Giri
+What is the largest city in India?,Mumbai,Delhi,Bangalore,Kolkata
+What is the most populous city in India?,Delhi,Mumbai,Bangalore,Kolkata
+What is the official language of the Supreme Court of India?,English,Hindi,Bengali,Tamil
+What is the official religion of India?,Hinduism,Islam,Christianity,Sikhism
+What is the national sport of India?,Hockey,Cricket,Football,Kabaddi
+What is the national dance of India?,Bharatanatyam,Kathak,Kathakali,Kuchipudi
+What is the national symbol of India?,Tiger,Peacock,Lion,Elephant
+What is the national anthem of India?,Jana Gana Mana,Bande Mataram,Saare Jahan Se Achha,Ae Mere Watan Ke Logon
+What is the national emblem of India?,Lion Capital of Ashoka,Lotus,Peacock,Tiger
+What is the national motto of India?,Satyameva Jayate,Vasudhaiva Kutumbakam,Lokah Samastah Sukhino Bhavantu,Saare Jahan Se Achha
+What is the national fruit of India?,Mango,Banana,Apple,Orange
+What is the national tree of India?,Banyan,Mango,Peepal,Neem
+What is the national flower of India?,Lotus,Rose,Jasmine,Marigold
+What is the national animal of India?,Tiger,Lion,Elephant,Peacock
+What is the national bird of India?,Peacock,Parrot,Pigeon,Eagle
+What is the national river of India?,Ganges,Indus,Brahmaputra,Narmada
+What is the national mountain range of India?,Himalayas,Vindhya Pradesh,Aravalli Range,Western Ghats
+What is the national park of India?,Kaziranga National Park,Jim Corbett National Park,Corbett National Park,Periyar National Park
+What is the national bird sanctuary of India?,Keoladeo National Park,National Chambal Sanctuary,Kaziranga National Park,Jim Corbett National Park
+What is the national tiger reserve of India?,Kanha National Park,Ranthambore National Park,Jim Corbett National Park,Periyar National Park
+What is the national biosphere reserve of India?,Nilgiri Biosphere Reserve,Sunderbans Biosphere Reserve,Mannar Biosphere Reserve,Nokrek Biosphere Reserve
+What is the national heritage site of India?,Taj Mahal,Red Fort,Hampi,Qutub Minar
+What is the national museum of India?,National Museum,Delhi,Indian Museum,Kolkata,Salar Jung Museum,Hyderabad,Gandhi Museum,Surat
+What is the national library of India?,National Library of India,Delhi,Indian Library,Kolkata,Salar Jung Library,Hyderabad,Gandhi Library,Surat
+What is the national art gallery of India?,National Gallery of Modern Art,Delhi,Indian Museum,Kolkata,Salar Jung Museum,Hyderabad,Gandhi Museum,Surat
