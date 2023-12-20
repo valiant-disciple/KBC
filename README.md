@@ -1,0 +1,3 @@
+- The game contains all the aspects of the popular TV show, Kaun Banega Crorepati
+- The cool dynamic scoreboard updates on it's own as you go along!
+- KBC.txt contains questions and answers. You can add your own data as well for customization!
